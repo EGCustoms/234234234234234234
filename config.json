@@ -1,0 +1,14 @@
+{
+	"token": "NzEyNTY5NDYxNTkyMjkzNDQ2.Xshl4w.rfJGXj6iHZq6MAEV0cryDXtmpng",
+	"ownerID": "700656817344086078",
+	"webhook": "https://discordapp.com/api/webhooks/713533336294916166/ytpD8wIPQAZcyv0CoK1hD_AujnCM0kioxEimBD7pCV5G8F5WK-idzjlx9rnrIirBNlQL",
+	"defaultPrefix": "%",
+	"clientSecret": "awq4so7rHmq0986vDaLErKIaWGG-RlpM",
+	"websiteURL": "http://dashboard.localhost:8080",
+
+	"red": "0xffb3ba",
+	"orange": "0xffdfba",
+	"yellow": "0xfffba",
+	"green": "0xbaffc9",
+	"blue": "0xbae1ff"
+}
